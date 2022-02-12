@@ -1,5 +1,1 @@
-- 👋 Hi, I’m Sedat (sedat1943)
-- 👀 I’m interested in Science and Blockchain
-- 🌱 I’m currently learning Python and Blockchain
-- 💞️ I’m looking to collaborate on Developers
-- 📫 How to reach me instagram: @se.dat1943
+
